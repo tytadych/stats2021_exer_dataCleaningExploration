@@ -1,5 +1,7 @@
 # Data Cleaning and Exploration Exercise
 
+A video demonstration of this assignment is available at: https://youtu.be/kDp1oIVAlL4
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
